@@ -2,7 +2,7 @@ google.com, pub-9674082796088337, DIRECT, f08c47fec0942fa0
 google.com, pub-2013139519986229, DIRECT, f08c47fec0942fa0
 
 
-
+purpleads.io, 61280ef25da0db1bc90ddf47, DIRECT
 google.com, pub-8699255262206653, RESELLER, f08c47fec0942fa0
 google.com, pub-3132893725603935, RESELLER, f08c47fec0942fa0
 google.com, pub-3191289882045155, RESELLER, f08c47fec0942fa0
