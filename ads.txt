@@ -3,6 +3,14 @@ google.com, pub-2013139519986229, DIRECT, f08c47fec0942fa0
 
 
 
+#ShareusADX GAM360 ~ Us/wyoming ~ publisher.shareus.io
+google.com, pub-2153431257373264, DIRECT, f08c47fec0942fa0
+google.com, pub-1101293790648476, DIRECT, f08c47fec0942fa0
+google.com, pub-1956856209985681, DIRECT, f08c47fec0942fa0
+google.com, pub-8804303781641925, DIRECT, f08c47fec0942fa0
+google.com, pub-1101293790648476, DIRECT, f08c47fec0942fa0
+#shareusadsend
+
 google.com, pub-8863191426564274, RESELLER, f08c47fec0942fa0
 pubmatic.com, 162319, RESELLER, 5d62403b186f2ace
 google.com, pub-4586415728471297, RESELLER, f08c47fec0942fa0
