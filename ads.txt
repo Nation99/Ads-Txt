@@ -2,6 +2,144 @@ google.com, pub-9674082796088337, DIRECT, f08c47fec0942fa0
 google.com, pub-2013139519986229, DIRECT, f08c47fec0942fa0
 
 
+
+ownerdomain=nyashanation.com
+managerdomain=revbid.net
+revbid.net, 5018, DIRECT
+# RevBid + diDNA <3
+media.net, 8CU4JTRF9, RESELLER
+# RevBid + SmileWanted <3
+Vidoomy.com, 7763608 , RESELLER
+# RevBid + AdYouLike <3
+lijit.com, 408376, RESELLER, fafdf38b16bf6b2b #SOVRN
+lijit.com, 408376-eb, RESELLER, fafdf38b16bf6b2b #SOVRN
+#RevBid + Seedtag <3
+# RevBid + Sovrn <3
+lijit.com, 474880, DIRECT, fafdf38b16bf6b2b #SOVRN
+lijit.com, 474880-eb, DIRECT, fafdf38b16bf6b2b #SOVRN
+# RevBid + SmileWanted <3
+# RevBid + Google <3
+#RevBid + Google <3
+#RevBid + Fluct (OB) <3
+#RevBid + Onetag (OB) <3
+#RevBid + Pubmatic (OB) <3
+# RevBid + ImproveDigital <3
+# RevBid + AdLiveTech <3
+# RevBid + Setupad <3
+#RevBid + Onetag <3
+#RevBid + Bidmatic <3
+# RevBid + AdfPA <3
+# RevBid + CriteoPA <3
+# RevBid + Improve <3
+#RevBid + OnetagPA <3
+#RevBid + MediaNetPA <3
+# RevBid + PA <3
+# RevBid + OpenX <3
+openx.com, 550957177, RESELLER, 6a698e2ec38604c6
+# RevBid + AdTarget <3
+# RevBid + oftPA <3
+# RevBid + E-Planning <3
+e-planning.net,f0e8f6477570117b,RESELLER,c1ba615865ed87b2
+disqus.com,891,DIRECT
+zeta.com,891,DIRECT
+zetaglobal.net,891,DIRECT
+sharethrough.com,23830661,DIRECT,d53b998a7bd4ecd2
+nextmillennium.io,16425,DIRECT,65bd090fa4a1e3d6
+mgid.com,833178,DIRECT,d4c29acad76ce94f
+loopme.com,12858,RESELLER,6c8d5f95897a5a3b
+krushmedia.com,AJxF6R489a9M6CaTvK,DIRECT
+sonobi.com,b812bd55d6,RESELLER,d1a215d9eb5aee9e
+conversantmedia.com,41784,RESELLER,03113cd04947736d
+Media.net,8CUT87EOU,DIRECT
+conversantmedia.com,41784,DIRECT,03113cd04947736d
+33across.com,0010b00002ZoRYhAAN,DIRECT,bbea06d9c4d2853c
+richaudience.com,9komJKwMhZ,RESELLER
+google.com,pub-3872674820285626,RESELLER,f08c47fec0942fa0
+xapads.com,162365,RESELLER
+rtbdemand.com,23064554446,RESELLER
+admixer.net,0cc7386a-d5a3-4b90-aeeb-3e67f8fe,DIRECT
+video.unrulymedia.com,827123801,DIRECT
+pubmatic.com,160846,RESELLER,5d62403b186f2ace
+inmobi.com,61d733c3779d43e590c51c8bc078e10c,RESELLER,83e75a7ae333ca9d
+lijit.com,380632,RESELLER,fafdf38b16bf6b2b #SOVRN
+mgid.com,885240,DIRECT,d4c29acad76ce94f
+adform.com,1762,RESELLER
+video.unrulymedia.com,827123801,RESELLER
+video.unrulymedia.com,2736329702851200000,RESELLER
+inmobi.com,9b300ff061ff4501abcdd864e6c1cceb,RESELLER,83e75a7ae333ca9d
+sharethrough.com,KGPeiFc6,RESELLER,d53b998a7bd4ecd2
+openx.com,559911747,RESELLER,6a698e2ec38604c6
+pubmatic.com,164187,RESELLER,5d62403b186f2ace
+rubiconproject.com,26144,RESELLER,0bfd66d529a55807
+trustedstack.com,TSL72ADG4,DIRECT
+risecodes.com,673da70c91e2fd000109c6f6,RESELLER
+crystall.io,294862,DIRECT
+lijit.com,512561,RESELLER,fafdf38b16bf6b2b
+adyoulike.com,cea2adf686c5179d6d96c9b0bbac777e,RESELLER
+adyoulike.com,814ad5a7eb7601cc991ae83a976195b9,RESELLER
+xandr.com,13117,RESELLER
+admatic.de,ade-pub-6537379909,DIRECT,uufps1dh5stc6euk
+amxrtb.com,105199734,RESELLER
+yieldmo.com,3377199372461613093,RESELLER
+onetag.com,87f58fe90234d0e,RESELLER
+smartadserver.com,5302,RESELLER,060d053dcf45cbf3
+aceex.io,2108,DIRECT,b1cf3c874d5c6682
+video.unrulymedia.com,799061815,RESELLER
+eskimi.com,2020000186,RESELLER
+conversantmedia.com,100066,DIRECT,03113cd04947736d
+nglcollective.com,475,DIRECT
+kargo.com,8800,DIRECT
+tremorhub.com,51vtw,RESELLER,1a4e959a1b50034a
+telaria.com,51vtw,RESELLER,1a4e959a1b50034a
+pubmatic.com,159933,DIRECT,5d62403b186f2ace
+springserve.com,1247,RESELLER,a24eb641fc82e93d
+telaria.com,2auap-ich32,RESELLER,1a4e959a1b50034a
+telaria.com,2auap-45web,RESELLER,1a4e959a1b50034a
+pubmatic.com,163389,RESELLER,5d62403b186f2ace
+telaria.com,2auap-zihku,RESELLER,1a4e959a1b50034a
+tremorhub.com,2auap-ich32,RESELLER,1a4e959a1b50034a
+tremorhub.com,2auap-45web,RESELLER,1a4e959a1b50034a
+tremorhub.com,2auap-zihku,RESELLER,1a4e959a1b50034a
+adagio.io,1417,DIRECT
+# RevBid + LoopMe <3
+# RevBid + Kueez <3
+# RevBid + Google <3
+# RevBid + AMXR <3
+admixer.net,5ec6caad-1374-4898-b09d-06f75d78bcc0,DIRECT
+cdn.rtb-stack.com, 5ec6caad-1374-4898-b09d-06f75d78bcc0, DIRECT
+152media.info,152M929,RESELLER
+# RevBid oRTB <3
+datawrkz.com, 2590, DIRECT
+vdo.ai, 915813768, RESELLER
+datacygnal.io, 151427, RESELLER
+appnexus.com, 8610, RESELLER, f5ab79cb980f11d1
+xapads.com, 205738, RESELLER
+video.unrulymedia.com, 906189653, RESELLER
+aps.amazon.com, 822c7bc2-d58f-4911-b8a2-95ee49e044c8, RESELLER
+appnexus.com, 16916, RESELLER, f5ab79cb980f11d1
+betweendigital.com, 45918, DIRECT
+video.unrulymedia.com, 146647607, RESELLER
+inmobi.com, 791b84bdd791470faa8dca5f04e6a83b, RESELLER, 83e75a7ae333ca9d
+conversantmedia.com, 100886, RESELLER, 03113cd04947736d
+improvedigital.com, 2525, RESELLER
+adyoulike.com, f78b24039641337f06634ab9a3da4b48, RESELLER
+inmobi.com, 2e2093a37dd344a2984c5251d6ec5740, DIRECT, 83e75a7ae333ca9d
+admatic.de, ade-pub-1353804549, DIRECT, uufps1dh5stc6euk
+ogury.com, 6daed14b-1822-4904-8e4c-a21d4be0b210, RESELLER
+appnexus.com, 14416, RESELLER
+appnexus.com, 14808, RESELLER
+adform.com, 3240, DIRECT
+sharethrough.com, a6a34444, RESELLER
+pixad.com.tr, px-pub-6514176248, DIRECT, uufps1dh5stc6euk
+admatic.com.tr, adm-pub-3698631073, DIRECT, uufps1dh5stc6euk
+monetixads.com, mix-pub-6611088393, DIRECT, uufps1dh5stc6euk
+connectad.io, 508, RESELLER, 85ac85a30c93b3e5
+appnexus.com, 14416, RESELLER
+appnexus.com, 14808, RESELLER
+sharethrough.com, a6a34444, RESELLER
+teads.tv, 30299, DIRECT, 15a9c44f6d26cbe1
+adbro.me, 6cf37d9d-abc2-4b41-b62b-c2e251e1ad3a, DIRECT
+
 purpleads.io, 61280ef25da0db1bc90ddf47, DIRECT
 google.com, pub-8699255262206653, RESELLER, f08c47fec0942fa0
 google.com, pub-3132893725603935, RESELLER, f08c47fec0942fa0
