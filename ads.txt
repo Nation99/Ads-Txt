@@ -3,7 +3,8 @@ google.com, pub-2013139519986229, DIRECT, f08c47fec0942fa0
 
 
 
-
+adtarget.com.tr, 779807, DIRECT
+pubmatic.com, 159078, RESELLER, 5d62403b186f2ace
 vdo.ai, 5068, DIRECT
 atlas5.co, 5068, DIRECT
 walletcircle.co, 5068, DIRECT
