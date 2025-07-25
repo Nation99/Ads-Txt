@@ -3,6 +3,9 @@ google.com, pub-2013139519986229, DIRECT, f08c47fec0942fa0
 
 
 
+
+
+google.com, pub-1257101994896376, DIRECT, f08c47fec0942fa0
 # Netpub Media
 # https://netpub.media
 # info@netpub.media
