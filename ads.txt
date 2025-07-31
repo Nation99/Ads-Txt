@@ -4,7 +4,22 @@ google.com, pub-2013139519986229, DIRECT, f08c47fec0942fa0
 
 
 
-
+adipolosolutions.com, 23015084430, RESELLER
+advertising.com, 82643, RESELLER
+appnexus.com, 14080, RESELLER, f5ab79cb980f11d1
+copper6.com, 766102, RESELLER
+ergadx.com, 5167, RESELLER
+eskimi.com, 2020000792, RESELLER
+imds.tv, 82643, RESELLER, ae6c32151e71f19d
+pmbmonetize.com, 23015084430, RESELLER
+pubmatic.com, 165854, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 26360, RESELLER, 0bfd66d529a55807
+screencore.io, 276, DIRECT
+thebrave.io, 1234679, RESELLER, c25b2154543746ac
+themediagrid.com, LMF4E8, RESELLER, 35d5010d7789b49d
+video.unrulymedia.com, 449519254, RESELLER
+visiblemeasures.com, 2006, DIRECT
+e-planning.net, c0cf28d2f6e6cba1, RESELLER, c1ba615865ed87b2
 google.com, pub-1257101994896376, DIRECT, f08c47fec0942fa0
 # Netpub Media
 # https://netpub.media
