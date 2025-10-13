@@ -1,9 +1,6 @@
-google.com, pub-9674082796088337, DIRECT, f08c47fec0942fa0
-google.com, pub-2013139519986229, DIRECT, f08c47fec0942fa0
-
 #ads.txt https://www.nyashanation.com
 
-#updated 10.12.2025
+#updated 10.13.2025
 
 ownerdomain=nyashanation.com
 managerdomain=newormedia.com
