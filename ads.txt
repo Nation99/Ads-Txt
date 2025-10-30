@@ -1,3 +1,50 @@
+jambojar.com, 2025J66, DIRECT
+google.com, pub-5348345762832984, DIRECT, f08c47fec0942fa0
+google.com, pub-9084396328078500, DIRECT, f08c47fec0942fa0
+google.com, pub-6914523826711866, DIRECT, f08c47fec0942fa0
+google.com, pub-7119804600138686, DIRECT, f08c47fec0942fa0
+google.com, pub-7471191098316515, DIRECT, f08c47fec0942fa0
+google.com, pub-7167853774941043, DIRECT, f08c47fec0942fa0
+aps.amazon.com,18b90968-2ad9-4ff5-a24f-1fe4156e21dd,DIRECT
+aps.amazon.com,5d8ed25e-57cc-441a-b62a-127b34faae4e, DIRECT
+inmobi.com, 1386c3283cdf43c687c7e433c94b4eaa, RESELLER, 83e75a7ae333ca9d
+adsolut.in, 30010, Direct
+google.com, pub-8584156348842922, RESELLER, f08c47fec0942fa0
+google.com, pub-8584156348842922, DIRECT, f08c47fec0942fa0
+google.com, pub-4586415728471297, DIRECT, f08c47fec0942fa0
+google.com, pub-4586415728471297, RESELLER, f08c47fec0942fa0
+google.com, pub-9119026932363247, DIRECT, f08c47fec0942fa0
+google.com, pub-1615310408372741, DIRECT, f08c47fec0942fa0
+Pubmatic.com, 159941, DIRECT
+pubmatic.com, 166238, DIRECT, 5d62403b186f2ace
+openx.com, 562388597, RESELLER, 6a698e2ec38604c6
+smartadserver.com, 4164, RESELLER, 060d053dcf45cbf3
+rubiconproject.com, 24872, DIRECT
+rubiconproject.com, 24872, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 24874, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 26768, RESELLER, 0bfd66d529a55807
+themediagrid.com, Q6VXLE, DIRECT, 35d5010d7789b49d
+freewheel.tv, 1599079, DIRECT
+freewheel.tv, 1599080, RESELLER
+consumable.com, 2001514, DIRECT, aefcd3d2f45b5070
+152media.info,152M977,RESELLER
+152media.info,152M1051,RESELLER
+appnexus.com, 11924, RESELLER, f5ab79cb980f11d1
+smilewanted.com, 3784, RESELLER
+pubmatic.com, 158810, RESELLER, 5d62403b186f2ace
+appnexus.com, 10040, RESELLER
+smartadserver.com, 2491, RESELLER
+rubiconproject.com, 19814, RESELLER, 0bfd66d529a55807
+kargo.com, 9011, DIRECT
+rubiconproject.com, 11864, RESELLER, 0bfd66d529a55807
+appnexus.com, 8173, RESELLER, f5ab79cb980f11d1
+contextweb.com, 562001, RESELLER, 89ff185a4c4e857c
+video.unrulymedia.com, 1858504412, RESELLER
+mobkoi.com, FCDABF51, DIRECT
+smartadserver.com, 5290, RESELLER, 060d053dcf45cbf3
+mobkoi.com, 91FF9AD4, DIRECT
+freewheel.tv, 1578381, RESELLER
+rubiconproject.com, 22554, RESELLER, 0bfd66d529a55807
 google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
 google.com, pub-5166146650779563, DIRECT, f08c47fec0942fa0
 pgamssp.com, 68a49e170f831721500d5d4f, RESELLER
