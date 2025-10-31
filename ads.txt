@@ -1,3 +1,4 @@
+google.com, pub-5626441996316309, DIRECT, f08c47fec0942fa0
 jambojar.com, 2025J66, DIRECT
 google.com, pub-5348345762832984, DIRECT, f08c47fec0942fa0
 google.com, pub-9084396328078500, DIRECT, f08c47fec0942fa0
