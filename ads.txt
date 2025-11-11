@@ -1,3 +1,63 @@
+Pubmatic.com, 161976, RESELLER, 5d62403b186f2ace
+adagio.io, 1522, RESELLER
+adagio.io, 1525, RESELLER
+adipolo.com, 102036 , RESELLER
+admatic.com.tr, mix-pub-692458276, RESELLER
+admatic.de, ade-pub-1590087311, RESELLER, uufps1dh5stc6euk
+advertising.com, 82660, DIRECT, ae6c32151e71f19d
+adyoulike.com, 13f72890d6eadc4755958004c95e9ed6, RESELLER
+appnexus.com, 4058, RESELLER, f5ab79cb980f11d1
+betweendigital.com, 47092, DIRECT
+contxtful.com, 250911, DIRECT
+conversantmedia.com, 100886, RESELLER, 03113cd04947736d
+cpmstar.com, 54453, RESELLER, 1b929e6459dfc260
+google.com, pub-1380520198379494, DIRECT, f08c47fec0942fa0
+google.com, pub-1380520198379494, RESELLER, f08c47fec0942fa0
+google.com, pub-1409218547787175, DIRECT, f08c47fec0942fa0
+google.com, pub-1661229542422591, DIRECT, f08c47fec0942fa0
+google.com, pub-2459857618473706, DIRECT, f08c47fec0942fa0
+google.com, pub-2990964355293172, DIRECT, f08c47fec0942fa0
+google.com, pub-3400636089340699, DIRECT, f08c47fec0942fa0
+google.com, pub-3619133031508264, RESELLER, f08c47fec0942fa0
+google.com, pub-5738383349802109, DIRECT, f08c47fec0942fa0
+google.com, pub-8926073280154137, DIRECT, f08c47fec0942fa0
+imds.tv, 82660, RESELLER, ae6c32151e71f19d
+loopme.com, 5962, RESELLER, 6c8d5f95897a5a3b
+mcgads.com, B94Y24, RESELLER
+media.net, 8CU8MP8E7, DIRECT
+monetixads.com, mix-pub-692458276, RESELLER
+netaddiction.it, 1092, RESELLER
+netlink.vn, ID sellers, DIRECT
+nobid.io, 22853635813,  RESELLER
+nobid.io,170256,RESELLER
+openx.com, 537159865, RESELLER, 6a698e2ec38604c6
+openx.com, 545702544, RESELLER, 6a698e2ec38604c6
+pixfuture.com, 10442, DIRECT
+pubmatic.com, 162914, RESELLER, 5d62403b186f2ace
+pubmatic.com, 16875, RESELLER, 5d62403b186f2ace
+rhythmone.com, 2564525892, RESELLER, a670c89d4a324e47
+richaudience.com, 4AoWPWXbVu, RESELLER
+richaudience.com, 7b7Iic4lEo, RESELLER
+rubiconproject.com, 15899, RESELLER, 0bfd66d529a55807
+rubiconproject.com,27554,RESELLER,0bfd66d529a55807
+smartadserver.com, 4012, DIRECT, 060d053dcf45cbf3
+smartadserver.com, 4016, DIRECT, 060d053dcf45cbf3
+smartadserver.com, 4058, DIRECT, 060d053dcf45cbf3
+smartadserver.com, 4071, DIRECT, 060d053dcf45cbf3
+smartadserver.com, 4073, DIRECT, 060d053dcf45cbf3
+smartadserver.com, 4074, DIRECT, 060d053dcf45cbf3
+smartadserver.com, 4390-OB, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 5450, RESELLER, 060d053dcf45cbf3
+smilewanted.com, 5775, RESELLER
+thebrave.io, 1234808, DIRECT, c25b2154543746ac
+vaayamedia.com, VM1110, Direct
+video.unrulymedia.com, 146647607, RESELLER
+videoheroes.tv, 212742, RESELLER 064bc410192443d8
+vistarsagency.com, d44uo7esbdfs73brmla0, RESELLER, 8db795910158017c
+voisetech.com, 1256, RESELLER, 9009ef0379162448
+webtvasia.com, 21715635079, DIRECT
+xad.com, 158, RESELLER, 81cbf0a75a5e0e9a
+
 managerdomain=revbid.net
 revbid.net, 5018, DIRECT
 # RevBid + Adagio
