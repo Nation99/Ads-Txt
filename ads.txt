@@ -1,3 +1,7 @@
+blueroostermedia.com,1022,DIRECT
+lijit.com,539909,RESELLER,fafdf38b16bf6b2b
+tagoras.io,1f90819a4cb4c67be57ecf39973f1b97,DIRECT
+amxrtb.com,105199976,DIRECT
 OWNERDOMAIN=nyashanation.com
 MANAGERDOMAIN=themoneytizer.com
 themoneytizer.com,128153,DIRECT
