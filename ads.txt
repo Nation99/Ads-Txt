@@ -1,3 +1,34 @@
+
+adyoulike.com, 1f301d3bcd723f5c372070bdfd142940, RESELLER
+amxrtb.com, 105199520, RESELLER
+appnexus.com, 9538, RESELLER, f5ab79cb980f11d1
+indexexchange.com, 191730, RESELLER, 50b1c356f2c5c8fc
+iqzone.com,IQ272,RESELLER
+lijit.com, 253233, RESELLER, fafdf38b16bf6b2b
+lijit.com, 397546, RESELLER, fafdf38b16bf6b2b
+lijit.com,456186,RESELLER,fafdf38b16bf6b2b
+loopme.com, 11436, RESELLER, 6c8d5f95897a5a3b
+loopme.com, 11712, RESELLER, 6c8d5f95897a5a3b
+media.net, 8CUV34PJ4, RESELLER
+mediafuse.com, 720, RESELLER
+mediafuse.com, 780, RESELLER
+onetag.com, 75601b04186d260, RESELLER
+onetag.com, 7e9adb1ccca08d0, RESELLER
+openx.com, 558758631, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 157743, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 17280, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 24434, RESELLER, 0bfd66d529a55807
+seedtag.com, 66c36c3b6fea490007754ec5, RESELLER
+sharethrough.com, AXS5NfBr, RESELLER, d53b998a7bd4ecd2
+sharethrough.com, Z7D3ygNP, RESELLER, d53b998a7bd4ecd2
+smartadserver.com, 3050, RESELLER
+smartadserver.com, 4575, RESELLER, 060d053dcf45cbf3
+sovrn.com, 253233, RESELLER, fafdf38b16bf6b2b
+themediagrid.com, SYMTFD, RESELLER, 35d5010d7789b49d
+video.unrulymedia.com, 2997140015, RESELLER
+video.unrulymedia.com,5336134699710583737,RESELLER
+xandr.com, 4009, RESELLER, f5ab79cb980f11d1
+zetaglobal.net,998,RESELLER
 ### UDM START ###
 udmserve.net, 3608, DIRECT, 0cf60ed62b5f3e40
 33across.com, 0015a00002y4bCYAAY, RESELLER, bbea06d9c4d2853c
