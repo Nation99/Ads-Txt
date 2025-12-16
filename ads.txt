@@ -1,3 +1,9 @@
+adagio.io, 1221, RESELLER
+adyoulike.com, fe21b0f3540708003e5f51ecfbe4c195, RESELLER, 4ad745ead2958bf7
+mediafuse.com, 760, DIRECT
+nobid.io, 22761202860, DIRECT
+snack-media.com, SNM_4833, DIRECT
+
 33across.com, 0015a00003DKg9ZAAT, RESELLER, bbea06d9c4d2853c#33Across#hb#tag
 33across.com, 0015a00003DKg9ZAAT, RESELLER, bbea06d9c4d2853c#33Across#hb#tag
 vdopia.com, 15364, DIRECT, 49a66ce31a704197#video
