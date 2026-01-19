@@ -1,3 +1,53 @@
+purpleads.io, 61280ef25da0db1bc90ddf47, DIRECT
+152media.info, 152M5, RESELLER
+adagio.io, 1263, RESELLER
+indexexchange.com, 190243, RESELLER, 50b1c356f2c5c8fc
+sharethrough.com, 23830661, RESELLER, d53b998a7bd4ecd2
+sonobi.com, 8efb591506, RESELLER, d1a215d9eb5aee9e
+triplelift.com, 8446, RESELLER, 6c33edb13117fd86
+amxrtb.com, 26595957, DIRECT
+adtelligent.com, 745570, DIRECT
+bidmatic.io, b-b6062, DIRECT
+adyoulike.com, 701e0e3d18b9ff62695c5d0aed9dd5a5, DIRECT, 4ad745ead2958bf7
+e-planning.net, c0cf28d2f6e6cba1, RESELLER, c1ba615865ed87b2
+152media.info, 152M374, RESELLER
+33across.com, 0010b00002Mq2FYAAZ, RESELLER, bbea06d9c4d2853c
+adagio.io, 1221, RESELLER
+adswizz.com, 651, DIRECT
+adyoulike.com, fe21b0f3540708003e5f51ecfbe4c195, RESELLER, 4ad745ead2958bf7
+durationmedia.net, 22761202860, DIRECT
+dxkulture.com, 0098, DIRECT, 259726033fc4df0c
+imds.tv, 82401, RESELLER, ae6c32151e71f19d
+indexexchange.com, 194590, RESELLER, 50b1c356f2c5c8fc
+kulture.media, 9533, RESELLER
+mediafuse.com, 760, DIRECT
+minutemedia.com, 01gerz67grgj, RESELLER
+nobid.io, 22761202860, DIRECT
+nobid.io, 22761202860, RESELLER
+pubmatic.com, 164751, RESELLER, 5d62403b186f2ace
+risecodes.com, 63ea59eef828de0001cf1773, DIRECT
+rubiconproject.com, 24434, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 26094, RESELLER, 0bfd66d529a55807
+sharethrough.com, aRE1degH, DIRECT, d53b998a7bd4ecd2
+snack-media.com, SNM_4833, DIRECT
+video.unrulymedia.com, 1352466146, RESELLER
+video.unrulymedia.com, 946176315, RESELLER
+yahoo.com, 57872, RESELLER
+yahoo.com, 59261, RESELLER, e1a5b5b6e3255540
+yahoo.com, 59885, RESELLER, e1a5b5b6e3255540
+zetaglobal.net, 790, DIRECT
+onetag.com, 775d62a935ce32d, DIRECT
+adyoulike.com, f1dfbb7f133fbdb25c96e7d85a5e628b, DIRECT, 4ad745ead2958bf7
+richaudience.com, owhFJBqgAt, DIRECT
+rtbhouse.com, vVmlLd9Yd4kOdFS977Qt, DIRECT
+sonobi.com, 2fc5fedd37, RESELLER, d1a215d9eb5aee9e
+appnexus.com, 14246, RESELLER, f5ab79cb980f11d1
+bizzclick.com, 286, RESELLER, 7e936b1feafdaa61
+sonobi.com, 296bf9795d, DIRECT, d1a215d9eb5aee9e
+streamkey.tv, 18715, DIRECT, f5ab793he40f11d1
+zetaglobal.net, 762, RESELLER
+
+
 pubfuture.com, 68547620f53fde0b8636d8be, DIRECT
 152media.info, 152M49, RESELLER
 152media.info, 152M608, RESELLER
