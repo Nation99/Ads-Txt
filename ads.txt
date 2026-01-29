@@ -1,3 +1,8 @@
+outbrain.com, 000bae066043207a08c3b751f1fb61aa34, RESELLER
+outbrain.com,004b8159fdd7613f4564868ee1087aa04f,RESELLER
+vi.ai, g-006f34b9ed8895a3e4b4a414595532605c, RESELLER
+vi.ai, g-009141bccd50289c1cc6b8e196afbd0f0d, RESELLER #instream video by outbrain
+
 #DigitalCaramel
 google.com, pub-4894759983606832, DIRECT, f08c47fec0942fa0
 google.com, pub-5739592199182283, DIRECT, f08c47fec0942fa0
