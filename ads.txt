@@ -1,3 +1,6 @@
+google.com, pub-3664732465850714, DIRECT, f08c47fec0942fa0
+
+
 monumetric.com, 455f41fb-0066-4ee2-b59d-c955d4714f2a, DIRECT 
 emxdgt.com, 1759, RESELLER, 1e1d41537f7cad7f
 districtm.io, 100600, RESELLER
