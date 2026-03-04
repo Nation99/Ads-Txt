@@ -1,5 +1,4 @@
-ownerdomain=nyashanation.com
-managerdomain=revbid.net
+
 revbid.net, 5018, DIRECT
 # RevBid + Adagio
 adagio.io, 1397, RESELLER
