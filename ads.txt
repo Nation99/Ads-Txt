@@ -1,3 +1,6 @@
+google.com, pub-5166146650779563, DIRECT, f08c47fec0942fa0
+
+google.com, pub-3664732465850714, DIRECT, f08c47fec0942fa0
 # Ads.txt last updated on: 2026/03/31 23:06:19.977771 by MONUMETRIC
 
 MANAGERDOMAIN=monumetric.com
