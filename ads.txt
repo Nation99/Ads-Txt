@@ -1,3 +1,81 @@
+# Nivendra - ads.txt
+# Domain: nyashanation.com
+# Seller ID: 17000
+
+tag.nivendra.com, 17000, DIRECT
+google.com, pub-4586415728471297, RESELLER, f08c47fec0942fa0
+tag.globalsun.io, 1173, DIRECT
+
+# Global account lines
+# RTB Banner+Video
+google.com, pub-6185760593519794, DIRECT, f08c47fec0942fa0
+google.com, pub-7498842897271564, DIRECT, f08c47fec0942fa0
+Pubmatic.com, 165166, RESELLER, 5d62403b186f2ace
+google.com, pub-4586415728471297, RESELLER, f08c47fec0942fa0
+pubmatic.com, 157569, RESELLER, 5d62403b186f2ace
+rtbdemand.com, 23066379908, DIRECT
+google.com, pub-3872674820285626, RESELLER, f08c47fec0942fa0
+rubiconproject.com, 26890, RESELLER, 0bfd66d529a55807
+google.com, pub-3494520468788589, RESELLER, f08c47fec0942fa0
+pubmatic.com, 159855, RESELLER, 5d62403b186f2ace
+openx.com, 561447216, RESELLER, 6a698e2ec38604c6
+rubiconproject.com, 26884, DIRECT, 0bfd66d529a55807
+appnexus.com, 11924, RESELLER, f5ab79cb980f11d1
+152media.info, 152M21, RESELLER
+openx.com, 539848768, RESELLER, 6a698e2ec38604c6 
+google.com, pub-9089347799132820, DIRECT, f08c47fec0942fa0
+pubmatic.com, 159941, RESELLER, 5d62403b186f2ace
+pubmatic.com, 159727, RESELLER, 5d62403b186f2ace
+google.com, pub-8584156348842922, RESELLER, f08c47fec0942fa0
+google.com, pub-2930805104418204, RESELLER, f08c47fec0942fa0
+google.com, pub-8856559311549217, RESELLER, f08c47fec0942fa0
+videoffy.com, vid00556, RESELLER
+google.com, pub-2676898002317977, RESELLER, f08c47fec0942fa0
+smaato.com, 1100004890, RESELLER, 07bcf65f187117b4
+google.com, pub-4903453974745530, RESELLER, f08c47fec0942fa0
+appnexus.com, 9684, DIRECT, f5ab79cb980f11d1
+openx.com, 541073624, RESELLER, 6a698e2ec38604c6
+openx.com, 541180797, RESELLER, 6a698e2ec38604c6
+onetag.com, 61d88450bdb25bc, DIRECT
+advertising.com, 28246, RESELLER
+video.unrulymedia.com, 2745492395, DIRECT
+rhythmone.com, 2745492395, DIRECT, a670c89d4a324e47
+rubiconproject.com, 22884, DIRECT, 0bfd66d529a55807
+advertising.com, 28613, DIRECT #VerizonOBVideo
+openx.com, 538929384, DIRECT, 6a698e2ec38604c6 #EBDA
+spotx.tv, 108706, DIRECT, 7842df1d2fe2db34 #EBDA
+spotxchange.com, 108706, DIRECT, 7842df1d2fe2db34 #EBDA
+video.unrulymedia.com, 1149317856, DIRECT #EBDA
+google.com, pub-5157263156975427, DIRECT, f08c47fec0942fa0
+google.com, pub-3583558735912669, DIRECT, f08c47fec0942fa0
+google.com, pub-2930805104418204, RESELLER, f08c47fec0942fa0
+google.com, pub-4903453974745530, RESELLER, f08c47fec0942fa0
+yahoo.com, 59265, RESELLER
+beachfront.com, 6799, RESELLER, e2541279e8e2ca4d
+video.unrulymedia.com, 2745492395, RESELLER
+rhythmone.com, 2745492395, RESELLER, a670c89d4a324e47
+rubiconproject.com, 22884, RESELLER, 0bfd66d529a55807
+indexexchange.com, 194861, RESELLER, 50b1c356f2c5c8fc
+indexexchange.com, 195721, RESELLER, 50b1c356f2c5c8fc
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156212, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156700, RESELLER, 5d62403b186f2ace
+google.com, pub-9135355251665930, RESELLER, f08c47fec0942fa0 #Opa
+google.com, pub-4836542095728076, RESELLER, f08c47fec0942fa0 #Positive
+google.com, pub-6804276076764268, RESELLER, f08c47fec0942fa0
+adipolo.com, 23015084430, RESELLER
+adipolosolutions.com, 23015084430, RESELLER
+pmbmonetize.com, 23015084430 RESELLER
+opamarketplace.com, 23015084430, RESELLER
+smartadline.com, 22676593736, RESELLER
+copper6.com, 22676593736, RESELLER
+omgstudios.com, 22676593736, RESELLER
+google.com, pub-2155800944799166, DIRECT, f08c47fec0942fa0
+mgid.com, 804794, DIRECT, d4c29acad76ce94f
+improvedigital.com, 1944, RESELLER
+
+
+
 contenta-verify-279b0afcc1312043
 google.com, pub-9253083092279736, RESELLER, f08c47fec0942fa0
 
