@@ -1,3 +1,15 @@
+appnerve.com, 789584, Direct, 8f9826c6e0a50373
+richaudience.com, zjYy9T6SRO, RESELLER
+appnexus.com, 8233, RESELLER
+pubmatic.com, 81564, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156538, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 13510, RESELLER
+adform.com, 1942, RESELLER
+lijit.com, 249425, RESELLER
+video.unrulymedia.com, 592728597, RESELLER
+smartadserver.com, 2640, RESELLER
+inmobi.com, e98f0d119adf44788d60132b6e20fc5d, RESELLER, 83e75a7ae333ca9d
+
 google.com, pub-9253083092279736, RESELLER, f08c47fec0942fa0
 google.com, pub-4455796980385172, DIRECT, f08c47fec0942fa0
 
